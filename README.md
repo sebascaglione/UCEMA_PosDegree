@@ -1,4 +1,4 @@
-This is the final work that I had to do to get my diploma in Data Science.
+This is the final project did it during my Postgraduate degree in Data Science.
 
 On this practice I had to act like if I was an employee of a News Magacine, and my task was to give the Management an idea to aquire more views on our site.
 
